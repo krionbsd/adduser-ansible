@@ -1,0 +1,8 @@
+---
+
+adduser_user_name: test
+adduser_user_comments: ""
+adduser_sudoroot: true
+adduser_password: '$6$7WEY2oh.0mcEV5$ILEVQS09fUF7ERdLbLaWD.ZcWpLKnImVTe/aWS/7Aiq4qa3mO8USNm1esNjjBNVepC1gvMxMmXh5lUcj7uZ9V1'
+adduser_public_keys:
+  - examplekey.pub
